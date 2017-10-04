@@ -13,6 +13,7 @@
   "author": "justin",
   "license": "ISC",
   "dependencies": {
+    "quickbase": "^2.9.1",
     "twit": "^2.2.9"
   }
 }
